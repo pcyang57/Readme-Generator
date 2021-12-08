@@ -1,7 +1,7 @@
 # Readme Generator
   ## Description
   This generates a readme file.
-  https://github.com/pcyang57/Readme Generator
+  https://github.com/pcyang57/Readme-Generator
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
